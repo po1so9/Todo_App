@@ -20,6 +20,6 @@ Project is created with:
 To run this project, you can make it executable or you can run it directly from IDEs.
 
 #### Converting .py to .exe 
-You can use this youtube video link provided below to covert the python file to an executable file and can use it in daily life.
+You can use this youtube video link provided below to convert the python file to an executable file and can use it in daily life.
 https://www.youtube.com/watch?v=UZX5kH72Yx4
 
