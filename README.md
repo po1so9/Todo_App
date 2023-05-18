@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-##General information
+## General information
 
 This simple project is completely based on python programming language.
 It is a simple app to write our tasks that we have to do in upcomming days.
